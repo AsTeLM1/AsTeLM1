@@ -1,6 +1,6 @@
 ## 🦦 About Me
 
-🎓 B.Sc. in Computer Science (3rd year) — UCLouvain, Belgium  
+🎓 Master 2 in Computer Science — UCLouvain, Belgium  
 🗣️ Fluent in **French** and **English**  
 
 ---
